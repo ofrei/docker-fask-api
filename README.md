@@ -12,9 +12,11 @@ chmod 777 *.sh # make sure all scripts can be executed
 ./start        # start webserver on localhost:5001
 ```
 
-go to http://localhost:5001/ :
+go to http://localhost:5001/ to see landing page:
 
 <img width="279" alt="image" src="https://github.com/ofrei/docker-flask-api/assets/13171449/a963b03b-fbfe-4ae2-bfbb-e299f1a4a603">
+
+and to execute queries against RESTapi :
 
 <img width="371" alt="image" src="https://github.com/ofrei/docker-flask-api/assets/13171449/65812310-cbaf-4842-9265-52fa124f8d51">
 
